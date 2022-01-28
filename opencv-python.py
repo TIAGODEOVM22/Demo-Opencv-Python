@@ -12,3 +12,5 @@ cv2.namedWindow('hello word')
 cv2.imshow('hello word', img)
 #deixa a janela em aberto para exibir a imagem.
 cv2.waitKey()
+
+print('teste git')
